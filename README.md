@@ -1,8 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Gustavo Fontana, I'm living in Brazil, I've been programming for 1 year and I intend to become a FullStack developer.
+
+LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/gustavoaes)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slaypz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-**SlaypZ/SlaypZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
