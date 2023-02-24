@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slaypz&show_icons=true&locale=en" alt="slaypz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaypz&" alt="slaypz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaypz&theme=radical" alt="slaypz" /></p>
