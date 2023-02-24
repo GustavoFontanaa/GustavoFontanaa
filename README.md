@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Fontana</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
-<img align="center" alt="Coding" width="700" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRmMjYxMzFmNmQ2NDc1ZDBiNmE0NzgzOTg1ODhkOTNkMjE5NzBhMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRmMjYxMzFmNmQ2NDc1ZDBiNmE0NzgzOTg1ODhkOTNkMjE5NzBhMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slaypz&label=Profile%20views&color=0e75b6&style=flat" alt="slaypz" /> </p>
 
