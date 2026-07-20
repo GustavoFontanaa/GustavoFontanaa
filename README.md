@@ -1,10 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GustavoFontanaa/GustavoFontanaa/output/github-snake-dark.svg">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GustavoFontanaa/GustavoFontanaa/output/github-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GustavoFontanaa/GustavoFontanaa/output/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GustavoFontanaa/GustavoFontanaa/output/github-snake.svg">
 
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/GustavoFontanaa/GustavoFontanaa/output/github-snake.svg">
-</picture>
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/GustavoFontanaa/GustavoFontanaa/output/github-snake.svg"
+      width="100%">
+  </picture>
+</p>
